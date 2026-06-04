@@ -5,7 +5,7 @@
     "url": "https://github.com/cairnscore"
   },
   "metadata": {
-    "description": "Claude Code marketplace for Cairn — trust + reputation auto-rating",
+    "description": "Claude Code marketplace for Cairn \u2014 trust + reputation auto-rating",
     "version": "0.1.0"
   },
   "plugins": [
@@ -19,11 +19,17 @@
       "homepage": "https://github.com/cairnscore/cairn-score-skill",
       "license": "MIT",
       "category": "developer-tools",
-      "keywords": ["trust", "reputation", "rating", "ai-safety", "mcp"],
+      "keywords": [
+        "trust",
+        "reputation",
+        "rating",
+        "ai-safety",
+        "mcp"
+      ],
       "source": {
         "source": "url",
         "url": "https://github.com/cairnscore/cairn-score-skill.git",
-        "sha": "c7e2291fe740efd00297a4791f6b8cb1087cf550"
+        "sha": "3fb6657cced1d841ad034478975b9d012df60425"
       }
     }
   ]

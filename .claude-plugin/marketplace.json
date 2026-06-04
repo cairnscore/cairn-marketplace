@@ -16,7 +16,7 @@
         "name": "Gus Ellerm & Ryan Chard",
         "url": "https://github.com/cairnscore"
       },
-      "homepage": "https://github.com/cairnscore/cairn-score-skill",
+      "homepage": "https://cairnscore.ai/",
       "license": "MIT",
       "category": "developer-tools",
       "keywords": [
@@ -29,7 +29,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cairnscore/cairn-score-skill.git",
-        "sha": "16231d122a1b5e2e4c650889bb1afbec6c65f81e"
+        "sha": "8e19213f03723a7a322a2c2a9fe5eb48f44aef3b"
       }
     }
   ]

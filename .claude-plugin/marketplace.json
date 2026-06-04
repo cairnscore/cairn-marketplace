@@ -1,0 +1,30 @@
+{
+  "name": "cairn-marketplace",
+  "owner": {
+    "name": "Gus Ellerm & Ryan Chard",
+    "url": "https://github.com/cairnscore"
+  },
+  "metadata": {
+    "description": "Claude Code marketplace for Cairn — trust + reputation auto-rating",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cairn",
+      "description": "Trust + reputation auto-rating for sources, MCP servers, and tools. Rates every WebFetch/WebSearch/MCP/Bash-net call in the background; claude-cli rater (default) bills your claude.ai subscription at ~$0.02-0.07/rating. See https://cairnscore.ai/privacy.",
+      "author": {
+        "name": "Gus Ellerm & Ryan Chard",
+        "url": "https://github.com/cairnscore"
+      },
+      "homepage": "https://github.com/cairnscore/cairn-score-skill",
+      "license": "MIT",
+      "category": "developer-tools",
+      "keywords": ["trust", "reputation", "rating", "ai-safety", "mcp"],
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cairnscore/cairn-score-skill.git",
+        "sha": "d1e34fa62869e46939881b51f7574d5de31cb3a1"
+      }
+    }
+  ]
+}

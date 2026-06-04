@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "cairn",
-      "description": "Trust + reputation auto-rating for sources, MCP servers, and tools. Rates every WebFetch/WebSearch/MCP/Bash-net call in the background; claude-cli rater (default) bills your claude.ai subscription at ~$0.02-0.07/rating. See https://cairnscore.ai/privacy.",
+      "description": "Trust + reputation auto-rating for sources, MCP servers, and tools. Rates every WebFetch/WebSearch/MCP/Bash-net call in the background. Default rater uses your claude.ai subscription (no extra $ charged \u2014 each rating draws from the same usage allowance as your normal Claude work, so heavy use can throttle other Claude work). Switch to ANTHROPIC_API_KEY for direct billing at ~$0.0003/rating. See https://cairnscore.ai/privacy.",
       "author": {
         "name": "Gus Ellerm & Ryan Chard",
         "url": "https://github.com/cairnscore"
@@ -29,7 +29,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cairnscore/cairn-score-skill.git",
-        "sha": "c6f955f92a62a19fb331aa867143df16a23893eb"
+        "sha": "16231d122a1b5e2e4c650889bb1afbec6c65f81e"
       }
     }
   ]
